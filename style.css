@@ -42,8 +42,7 @@ img {
 }
 
 .center {
-
-  margin-left: 300px;
-  margin-right: 300px;
+  width: 300px;
+  margin: auto;
   padding: 1em;
 }

@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pWODS,bWODS and WODs/historyofsurfing-" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -35,10 +35,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1601456236781">
+    <state x="580" y="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601583045702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601456236781" />
+    <state x="580" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601583045702" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1601583071888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601583071888" />
+    <state x="499" y="250" key="new project wizard" timestamp="1601495102146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="250" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601495102146" />
     <state x="1103" y="230" key="search.everywhere.popup" timestamp="1601275032285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
